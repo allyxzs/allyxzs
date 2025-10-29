@@ -45,4 +45,4 @@
 
 ---
 
-<p align="center">Thanks for stopping by — feel free to say hi 👋</p>
+<p align="center">Made in Brazil.</p>
