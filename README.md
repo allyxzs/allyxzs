@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/allyxzs/allyxzs/main/banner.png" alt="banner" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Allyson</h1>
 <h3 align="center">High School Student & Aspiring FullStack Developer</h3>
 
