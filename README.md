@@ -38,9 +38,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=allyxzs&show_icons=true&theme=tokyonight" alt="Allyson's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=allyxzs&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Allyson GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allyxzs&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allyxzs&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages"/>
 </p>
 
 ---
