@@ -37,8 +37,31 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=allyxzs&show_icons=true&theme=tokyonight" />
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=allyxzs&show_icons=true&theme=tokyonight&count_private=true" 
+    alt="Allyson's GitHub Stats" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=allyxzs&layout=compact&theme=tokyonight" 
+    alt="Top Languages" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=allyxzs&date_format=%5BY%5Dm%5Bd%5D" 
+    alt="GitHub Streak" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://activity-graph.herokuapp.com/graph?username=allyxzs&theme=react-dark&hide_border=true" 
+    alt="Activity Graph" 
+  />
+</p>
 
 ---
 
-<p align="center">Made in Brazil.</p>
+<p align="center">Made in Brazil 🇧🇷</p>
