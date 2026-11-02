@@ -36,15 +36,14 @@
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=allyxzs&show_icons=true&theme=tokyonight&count_private=true" 
-    alt="Allyson's GitHub Stats" 
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=allyxzs&amp;show_icons=true&amp;theme=tokyonight"
+    alt="Allyson's GitHub Stats"
   />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=allyxzs&layout=compact&theme=tokyonight" 
-    alt="Top Languages" 
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=allyxzs&amp;layout=compact&amp;theme=tokyonight"
+    alt="Top Languages"
   />
 </p>
 
@@ -56,9 +55,9 @@
 </p>
 
 <p align="center">
-  <img 
-    src="https://activity-graph.herokuapp.com/graph?username=allyxzs&theme=react-dark&hide_border=true" 
-    alt="Activity Graph" 
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=allyxzs&amp;theme=react-dark&amp;hide_border=true"
+    alt="Allyson's GitHub Activity Graph"
   />
 </p>
 
