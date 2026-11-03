@@ -54,13 +54,6 @@
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=allyxzs&amp;theme=react-dark&amp;hide_border=true"
-    alt="Allyson's GitHub Activity Graph"
-  />
-</p>
-
 ---
 
 <p align="center">Made in Brazil 🇧🇷</p>
