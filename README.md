@@ -48,9 +48,9 @@
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=allyxzs&date_format=%5BY%5Dm%5Bd%5D" 
-    alt="GitHub Streak" 
+  <img
+    src="https://streak-stats.demolab.com?user=allyxzs&amp;theme=tokyonight&amp;date_format=%5BY%5Dm%5Bd%5D"
+    alt="GitHub Streak"
   />
 </p>
 
